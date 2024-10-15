@@ -5,7 +5,7 @@ using System.Diagnostics.Tracing;
 
 namespace ModTemplate
 {
-    [BepInPlugin(PluginInfo.Version, PluginInfo.Version, PluginInfo.Version)]
+    [BepInPlugin(PluginInfo.GUID, PluginInfo.Name, PluginInfo.Version)]
     public class Plugin : BaseUnityPlugin
     {
         // Until I make this a nuget package please replace the path in Directory.Build.props with your own game path
