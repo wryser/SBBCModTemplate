@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{3DE412DB-E3D5-4AC5-82E6-06893967A611}|SBBCModTemplate.csproj|d:\\documents\\githubrepos\\sbbcmodtemplate\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DE412DB-E3D5-4AC5-82E6-06893967A611}|SBBCModTemplate.csproj|solutionrelative:plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE412DB-E3D5-4AC5-82E6-06893967A611}|SBBCModTemplate.csproj|d:\\documents\\githubrepos\\sbbcmodtemplate\\directory.build.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3DE412DB-E3D5-4AC5-82E6-06893967A611}|SBBCModTemplate.csproj|solutionrelative:directory.build.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE412DB-E3D5-4AC5-82E6-06893967A611}|SBBCModTemplate.csproj|d:\\documents\\githubrepos\\sbbcmodtemplate\\plugininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE412DB-E3D5-4AC5-82E6-06893967A611}|SBBCModTemplate.csproj|solutionrelative:plugininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Directory.Build.props",
+              "DocumentMoniker": "D:\\Documents\\GitHubRepos\\SBBCModTemplate\\Directory.Build.props",
+              "RelativeDocumentMoniker": "Directory.Build.props",
+              "ToolTip": "D:\\Documents\\GitHubRepos\\SBBCModTemplate\\Directory.Build.props",
+              "RelativeToolTip": "Directory.Build.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-15T07:33:45.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PluginInfo.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHubRepos\\SBBCModTemplate\\PluginInfo.cs",
+              "RelativeDocumentMoniker": "PluginInfo.cs",
+              "ToolTip": "D:\\Documents\\GitHubRepos\\SBBCModTemplate\\PluginInfo.cs",
+              "RelativeToolTip": "PluginInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:30:57.318Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "Plugin.cs",
               "ToolTip": "D:\\Documents\\GitHubRepos\\SBBCModTemplate\\Plugin.cs",
               "RelativeToolTip": "Plugin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T07:04:23.934Z",
               "EditorCaption": ""
