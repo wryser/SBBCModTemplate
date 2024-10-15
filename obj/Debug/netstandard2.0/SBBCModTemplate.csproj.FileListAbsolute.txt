@@ -1,0 +1,11 @@
+D:\Documents\GitHubRepos\SBBCModTemplate\bin\Debug\netstandard2.0\SBBCModTemplate.deps.json
+D:\Documents\GitHubRepos\SBBCModTemplate\bin\Debug\netstandard2.0\SBBCModTemplate.dll
+D:\Documents\GitHubRepos\SBBCModTemplate\bin\Debug\netstandard2.0\SBBCModTemplate.pdb
+D:\Documents\GitHubRepos\SBBCModTemplate\obj\Debug\netstandard2.0\SBBCModTemplate.csproj.AssemblyReference.cache
+D:\Documents\GitHubRepos\SBBCModTemplate\obj\Debug\netstandard2.0\MyPluginInfo.cs
+D:\Documents\GitHubRepos\SBBCModTemplate\obj\Debug\netstandard2.0\SBBCModTemplate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHubRepos\SBBCModTemplate\obj\Debug\netstandard2.0\SBBCModTemplate.AssemblyInfoInputs.cache
+D:\Documents\GitHubRepos\SBBCModTemplate\obj\Debug\netstandard2.0\SBBCModTemplate.AssemblyInfo.cs
+D:\Documents\GitHubRepos\SBBCModTemplate\obj\Debug\netstandard2.0\SBBCModTemplate.csproj.CoreCompileInputs.cache
+D:\Documents\GitHubRepos\SBBCModTemplate\obj\Debug\netstandard2.0\SBBCModTemplate.dll
+D:\Documents\GitHubRepos\SBBCModTemplate\obj\Debug\netstandard2.0\SBBCModTemplate.pdb
